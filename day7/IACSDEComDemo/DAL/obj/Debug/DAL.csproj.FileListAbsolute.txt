@@ -1,0 +1,17 @@
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\bin\Debug\DAL.dll
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\bin\Debug\DAL.pdb
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\bin\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\bin\Debug\BOL.pdb
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\obj\Debug\DAL.dll
+C:\Users\tfladmin\source\repos\IACSDECom\DAL\obj\Debug\DAL.pdb
+E:\minal\MS.net\day7\IACSDEComDemo\DAL\bin\Debug\DAL.dll
+E:\minal\MS.net\day7\IACSDEComDemo\DAL\bin\Debug\DAL.pdb
+E:\minal\MS.net\day7\IACSDEComDemo\DAL\bin\Debug\BOL.dll
+E:\minal\MS.net\day7\IACSDEComDemo\DAL\bin\Debug\BOL.pdb
+E:\minal\MS.net\day7\IACSDEComDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\minal\MS.net\day7\IACSDEComDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\minal\MS.net\day7\IACSDEComDemo\DAL\obj\Debug\DAL.dll
+E:\minal\MS.net\day7\IACSDEComDemo\DAL\obj\Debug\DAL.pdb

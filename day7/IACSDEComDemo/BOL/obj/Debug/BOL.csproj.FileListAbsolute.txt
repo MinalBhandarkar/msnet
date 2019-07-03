@@ -1,0 +1,12 @@
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\bin\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\bin\Debug\BOL.pdb
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\obj\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\obj\Debug\BOL.pdb
+E:\minal\MS.net\day7\IACSDEComDemo\BOL\bin\Debug\BOL.dll
+E:\minal\MS.net\day7\IACSDEComDemo\BOL\bin\Debug\BOL.pdb
+E:\minal\MS.net\day7\IACSDEComDemo\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+E:\minal\MS.net\day7\IACSDEComDemo\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+E:\minal\MS.net\day7\IACSDEComDemo\BOL\obj\Debug\BOL.dll
+E:\minal\MS.net\day7\IACSDEComDemo\BOL\obj\Debug\BOL.pdb
